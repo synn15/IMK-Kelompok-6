@@ -3,7 +3,7 @@
 @import 'keranjang.css';
 
 :root{
-    /* disini untuk bikin variable global*/
+    /* disini untuk bikin variable global. (Harus diawali dengan karakter "--")*/
     --clr-red: red;
 }
 
