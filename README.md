@@ -10,8 +10,12 @@ Atau mau pakai Bootstrap juga bisa, tinggal pakai, sudah versi 5.
 
 Cek main.css dulu, klo mau pake css manual
 
-> Auni : Pengembalian, penilaian, perpanjang peminjaman, 
-> Andri : Menyewakan, pembayaran, profil, pembayaran
-> Azmi : Home blm login, home login, keranjang
-> Bimo : Sedang Disewa, login, sign up, lupa pass, konfirm
-> Zhafran : Detail barang, toko saya
+> Auni : Pengembalian, penilaian, perpanjang peminjaman.
+
+> Andri : Menyewakan, pembayaran, profil, pembayaran.
+
+> Azmi : Home blm login, home login, keranjang.
+
+> Bimo : Sedang Disewa, login, sign up, lupa pass, konfirm.
+
+> Zhafran : Detail barang, toko saya.
