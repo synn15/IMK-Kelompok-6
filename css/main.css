@@ -1,0 +1,15 @@
+/* Disini untuk import file css lain (harus paling atas) */
+@import 'home.css';
+@import 'keranjang.css';
+
+:root{
+    /* disini untuk bikin variable global*/
+    --clr-red: red;
+}
+
+
+*, *::after, *::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
