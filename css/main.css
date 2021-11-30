@@ -1,7 +1,7 @@
 /* Disini untuk import file css lain (harus paling atas) */
-@import 'home.css';
-@import 'keranjang.css';
-@import 'navbar.css';
+@import 'home/banner.css';
+@import 'home/kategori.css';
+@import 'home/navbar.css';
 
 :root{
     /* disini untuk bikin variable global (harus diawali dengan tanda "--")*/

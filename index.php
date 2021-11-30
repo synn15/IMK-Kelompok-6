@@ -64,13 +64,50 @@
     <section class="kategori">
         <h1 class="kategori__judul">Kategori</h1>
         <div class="kategori__pills">
-            <a class="kategori__pill">
-                <div class="kategori__pils-icon">
-
+            <a href="#" class="kategori__pill-link">
+                <div class="kategori__pill">
+                    <div class="kategori__pill-icon">
+                        <i class="fas fa-plug"></i>
+                    </div>
+                    <div class="kategori__pill-label">
+                        Elektronik
+                    </div>
                 </div>
-
+            </a>
+            <a href="#" class="kategori__pill-link">
+                <div class="kategori__pill">
+                    <div class="kategori__pill-icon">
+                        <i class="fas fa-plug"></i>
+                    </div>
+                    <div class="kategori__pill-label">
+                        Pakaian
+                    </div>
+                </div>
+            </a>
+            <a href="#" class="kategori__pill-link">
+                <div class="kategori__pill">
+                    <div class="kategori__pill-icon">
+                        <i class="fas fa-plug"></i>
+                    </div>
+                    <div class="kategori__pill-label">
+                        Kendaraan
+                    </div>
+                </div>
+            </a>
+            <a href="#" class="kategori__pill-link">
+                <div class="kategori__pill">
+                    <div class="kategori__pill-icon">
+                        <i class="fas fa-plug"></i>
+                    </div>
+                    <div class="kategori__pill-label">
+                        Buku
+                    </div>
+                </div>
             </a>
         </div>
+    </section>
+    <section class="promo">
+        
     </section>
 </body>
 
