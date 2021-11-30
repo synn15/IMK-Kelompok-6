@@ -21,6 +21,7 @@
     padding: 0;
 }
 
-body{
+html{
     font-family: 'Open Sans', sans-serif;
+    font-size: 62.5%; /*10px*/
 }
