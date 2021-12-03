@@ -3,6 +3,7 @@
 @import 'home/kategori.css';
 @import 'home/navbar.css';
 @import 'home/promo.css';
+@import 'home/footer.css';
 
 :root{
     /* disini untuk bikin variable global (harus diawali dengan tanda "--")*/
@@ -14,6 +15,7 @@
     --clr-secondary-2: #6587B4;
 
     --clr-tertiary-1: #F84E35;
+    --clr-bg: rgb(243, 243, 243);
 }
 
 *, *::after, *::before{
@@ -25,4 +27,7 @@
 html{
     font-family: 'Open Sans', sans-serif;
     font-size: 62.5%; /*10px*/
+}
+body{
+    background-color: var(--clr-bg);
 }

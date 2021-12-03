@@ -21,6 +21,9 @@
     border-radius: 50rem;
     padding: .5rem;
 }
+.logo-img{
+    width: 3rem;
+}
 .navbar-main__search-container input{
     border: none;
     font-family: 'Open Sans';

@@ -1,7 +1,8 @@
 <nav class="custom-navbar">
+    
     <div class="navbar-main">
         <div class="navbar-main__logo">
-            <h1>A</h1>
+            <img class="logo-img" src="/imk-kelompok-6/assets/img/logosewain.png" alt="" srcset="">
         </div>
         <div class="navbar-main__search">
             <div class="navbar-main__search-container">
