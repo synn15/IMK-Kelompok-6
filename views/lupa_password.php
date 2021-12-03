@@ -30,8 +30,8 @@
                   <button class="btn btn-primary" type="button">Kirim Kode</button>
                   <p></p>
                   <div class="mb-3">
-                      <label for="Username" class="form-label">Masukkan Kode</label>
-                      <input type="Username" class="form-control" id="Username" placeholder="Masukkan Kode yang Dikirimkan">
+                      <label for="text" class="form-label">Masukkan Kode</label>
+                      <input type="text" class="form-control" id="text" placeholder="Masukkan Kode yang Dikirimkan">
                   </div>
                     <button class="btn btn-primary" onclick="location.href='/IMK-Kelompok-6/views/konfirmasi_password.php'" type="button">Verifikasi</button>
                   </form>

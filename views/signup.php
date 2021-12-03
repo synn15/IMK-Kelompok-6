@@ -48,10 +48,6 @@
                     <input type="text" class="form-control" id="text" placeholder="Masukkan Nomor HP Anda yang aktif">
                   </div>
                   <div class="mb-3">
-                    <label for="Username" class="form-label">Email</label>
-                    <input type="Username" class="form-control" id="Username" placeholder="Masukkan Username anda">
-                  </div>
-                  <div class="mb-3">
                       <label for="exampleInputPassword1" class="form-label">Password</label>
                       <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password minimal 8-12 Karakter">
                   </div>
