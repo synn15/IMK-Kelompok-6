@@ -1,4 +1,4 @@
-<nav class="navbar">
+<nav class="custom-navbar">
     <div class="navbar-main">
         <div class="navbar-main__logo">
             <h1>A</h1>

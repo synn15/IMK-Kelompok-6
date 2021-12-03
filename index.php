@@ -1,21 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/main.css">
-    <!-- <link rel="stylesheet" href="assets/bootstrap.min.css"> -->
-</head>
+<?php include 'php/header.php'; ?>
 
 <body>
-    <?php include 'views/navbar.php'; ?>
+    <?php include 'php/navbar.php'; ?>
     <section class="banner">
         <div class="banner__big">
             <div id="slideshow" class="slideshow">
@@ -62,19 +51,66 @@
         </div>
     </section>
     <section class="kategori">
-        <h1 class="kategori__judul">Kategori</h1>
+        <h1 class="judul">Kategori</h1>
         <div class="kategori__pills">
-            <a class="kategori__pill">
-                <div class="kategori__pils-icon">
-
+            <a href="#" class="kategori__pill-link">
+                <div class="kategori__pill">
+                    <div class="kategori__pill-icon">
+                        <i class="fas fa-plug"></i>
+                    </div>
+                    <div class="kategori__pill-label">
+                        Elektronik
+                    </div>
                 </div>
-
+            </a>
+            <a href="#" class="kategori__pill-link">
+                <div class="kategori__pill">
+                    <div class="kategori__pill-icon">
+                        <i class="fas fa-plug"></i>
+                    </div>
+                    <div class="kategori__pill-label">
+                        Pakaian
+                    </div>
+                </div>
+            </a>
+            <a href="#" class="kategori__pill-link">
+                <div class="kategori__pill">
+                    <div class="kategori__pill-icon">
+                        <i class="fas fa-plug"></i>
+                    </div>
+                    <div class="kategori__pill-label">
+                        Kendaraan
+                    </div>
+                </div>
+            </a>
+            <a href="#" class="kategori__pill-link">
+                <div class="kategori__pill">
+                    <div class="kategori__pill-icon">
+                        <i class="fas fa-plug"></i>
+                    </div>
+                    <div class="kategori__pill-label">
+                        Buku
+                    </div>
+                </div>
+            </a>
+        </div>
+    </section>
+    <section class="promo">
+        <h1 class="judul">Promo</h1>
+        <div class="row">
+            <a href="#" class="product-card__link">
+                <div class="product-card">
+                    <img class="product-card__img" src="https://media.gq.com/photos/56e71c0b14cbe0637b261d7f/4:3/w_2260,h_1695,c_limit/horseinsuit2.jpg" alt="" srcset="">
+                    <div class="product-card__labels">
+                        <span class="barang__label">Wow</span>
+                    </div>
+                    <h2 class="product-card__title">Kuda</h2>
+                </div>
             </a>
         </div>
     </section>
 </body>
+<?php include 'php/footer.php'; ?>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<!-- <script src="js/banner.js"></script> -->
 
 </html>
