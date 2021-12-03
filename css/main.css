@@ -2,6 +2,7 @@
 @import 'home/banner.css';
 @import 'home/kategori.css';
 @import 'home/navbar.css';
+@import 'home/promo.css';
 
 :root{
     /* disini untuk bikin variable global (harus diawali dengan tanda "--")*/
