@@ -38,10 +38,6 @@
         columns: 4;
     }
 
-    button {
-        
-    }
-
     </style>
 </head>
 
