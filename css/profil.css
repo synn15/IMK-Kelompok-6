@@ -1,6 +1,62 @@
-div.box {
-    width: 320px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0;
-  }
+h1.profil {
+  font-size: 36px;
+  margin-left: 80px;
+  margin-top: 70px;
+}
+
+div.box1 {
+  width: 340px;
+  height: auto;
+  padding: 20px;
+  margin-left: 80px;
+  margin-top: 30px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  
+}
+
+div.box2 {
+  width: 1000px;
+  height: 792px;
+  padding: 20px;
+  margin-top: 30px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  position:static;
+  display: inline-block;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+  columns: 4;
+}
+
+ul h5{
+  font-family: Open Sans;
+}
+
+.upload {
+  font-size: 12px;
+  border: none;
+  padding: 1rem;
+  width: 100%;
+  background-color: var(--clr-primary-3);
+  color: white;
+  border-radius: 5px;
+}
+
+.upload-img {
+  width: 100%;
+}
+
+.simpan {
+  font-size: 12px;
+  border: none;
+  padding: 1rem;
+  width: 20%;
+  background-color: var(--clr-primary-3);
+  color: white;
+  border-radius: 5px;
+  float: right;
+}
