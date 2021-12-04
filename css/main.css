@@ -4,6 +4,9 @@
 @import 'home/navbar.css';
 @import 'home/promo.css';
 @import 'home/footer.css';
+@import 'penilaian.css';
+@import 'pengembalian.css';
+
 
 :root{
     /* disini untuk bikin variable global (harus diawali dengan tanda "--")*/
