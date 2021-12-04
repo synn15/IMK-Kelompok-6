@@ -19,7 +19,7 @@
             <a href="#" class="keranjang">
                 <i class="fas fa-cart-plus icon"></i>
             </a>
-            <a href="#" class="profil">
+            <a href="/imk-kelompok-6/views/profil.php" class="profil">
                 <i class="far fa-user-circle icon"></i>
             </a>
         </div>
