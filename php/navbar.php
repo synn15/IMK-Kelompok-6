@@ -13,11 +13,11 @@
             </div>
         </div>
         <div class="navbar-main__icons">
-            <a href="#" class="logout">Logout</a>
+            <a href="/imk-kelompok-6/views/login.php" class="logout">Login</a>
             <a href="#" class="notif">
                 <i class="far fa-bell icon"></i>
             </a>
-            <a href="#" class="keranjang">
+            <a href="/imk-kelompok-6/views/keranjang.php" class="keranjang">
                 <i class="fas fa-cart-plus icon"></i>
             </a>
             <a href="/imk-kelompok-6/views/profil.php" class="profil">
@@ -27,11 +27,11 @@
     </div>
     <div class="navbar-sub">
         <div class="navbar-sub__links">
-            <a href="#" class="navbar-sub__link active">Home</a>
+            <a href="/imk-kelompok-6/index.php" class="navbar-sub__link active">Home</a>
             <a href="#" class="navbar-sub__link">Kategori</a>
             <a href="#" class="navbar-sub__link">Toko Saya</a>
             <a href="#" class="navbar-sub__link">Menyewa</a>
-            <a href="#" class="navbar-sub__link">Kembalikan</a>
+            <a href="/IMK-Kelompok-6/views/pengembalian.php" class="navbar-sub__link">Kembalikan</a>
         </div>
     </div>
 </nav>
