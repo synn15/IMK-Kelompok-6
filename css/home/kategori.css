@@ -2,10 +2,25 @@
     width: 100%;
     padding: 1rem 4rem 2rem 4rem;
 }
+
 .judul{
-    font-size: 3rem;
-    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
 }
+.judul-title{
+    font-size: 3rem;
+    font-weight: 700;
+}
+.judul-link{
+    text-decoration: none;
+    font-size: 2rem;
+    color: black;
+    font-weight: 500;
+}
+
+
 .kategori__pill-link{
     text-decoration: none;
 }
@@ -13,9 +28,8 @@
     display: flex;
     justify-content: start;
     align-items: center;
-    gap: 2rem;
+    column-gap: 4rem;
     text-decoration: none;
-    margin-top: 2rem;
 }
 .kategori__pill{
     background-color: var(--clr-primary-2);
@@ -29,7 +43,7 @@
 }
 .kategori__pill-icon{
     background-color: white;
-    color: var(--clr-primary-2);
+    color: var(--clr-secondary-1);
     border-radius: 10rem;
     width: 3.5rem;
     height: 3.5rem;
