@@ -31,7 +31,7 @@
             <a href="#" class="navbar-sub__link">Kategori</a>
             <a href="#" class="navbar-sub__link">Toko Saya</a>
             <a href="#" class="navbar-sub__link">Menyewa</a>
-            <a href="#" class="navbar-sub__link">Kembalikan</a>
+            <a href="/IMK-Kelompok-6/views/pengembalian.php" class="navbar-sub__link">Kembalikan</a>
         </div>
     </div>
 </nav>
