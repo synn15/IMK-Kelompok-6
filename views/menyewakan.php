@@ -63,7 +63,9 @@
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="inputProvinsi" class="col-sm-2 col-form-label">Kategori</label>
+                    <label for="inputProvinsi" class="col-sm-2 col-form-label">
+                        <h4>Kategori</h4>
+                    </label>
                     <div class="col-sm-10">
                         <select class="form-control">
                             <option>Pilih Kategori</option>

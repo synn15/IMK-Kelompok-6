@@ -9,10 +9,6 @@
     <div class="container">
         <div class="row">
             <div class="col">
-
-
-
-
                 <div class="box1">
                     <svg class="upload-img" width="302" height="302" viewBox="0 0 302 302" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect x="0.5" y="0.5" width="301" height="301" rx="2.5" fill="#F2F6FC" />
