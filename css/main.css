@@ -8,7 +8,7 @@
 @import 'penilaian.css';
 @import 'pengembalian.css';
 @import 'keranjang.css';
-
+@import 'menyewakan.css';
 
 :root{
     /* disini untuk bikin variable global (harus diawali dengan tanda "--")*/
