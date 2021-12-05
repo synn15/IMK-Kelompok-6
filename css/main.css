@@ -9,6 +9,8 @@
 @import 'pengembalian.css';
 @import 'keranjang.css';
 @import 'menyewakan.css';
+@import 'toko.css';
+
 
 :root{
     /* disini untuk bikin variable global (harus diawali dengan tanda "--")*/
