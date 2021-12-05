@@ -16,7 +16,7 @@ div.box1 {
 
 div.box2 {
   width: 900px;
-  height: 450px;
+  height: 500px;
   padding: 20px;
   margin-top: 30px;
   /*margin-left: auto;
@@ -63,4 +63,8 @@ ul h5{
 .wrapper {
   display: inline-block;
   grid-template-columns: 2;
+}
+
+h5 {
+  font-family: 'Open Sans';
 }

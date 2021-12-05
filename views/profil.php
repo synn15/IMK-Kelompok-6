@@ -29,49 +29,65 @@
                 <div class="box2">
                     <form>
                         <div class="form-group row">
-                            <label for="inputUsername" class="col-sm-2 col-form-label">Username</label>
+                            <label for="inputUsername" class="col-sm-2 col-form-label">
+                                <h5>Username</h5>
+                            </label>
                             <div class="col-sm-10">
                                 <input type="text" class="form-control form-control-lg" id="inputUsername" placeholder="bimo123">
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="inputNama" class="col-sm-2 col-form-label">Nama</label>
+                            <label for="inputNama" class="col-sm-2 col-form-label">
+                                <h5>Nama</h5>
+                            </label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="inputNama" placeholder="Bimo Aryo">
+                                <input type="text" class="form-control form-control-lg" id="inputNama" placeholder="Bimo Aryo">
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
+                            <label for="inputEmail" class="col-sm-2 col-form-label">
+                                <h5>Email</h5>
+                            </label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="staticEmail" placeholder="email@example.com">
+                                <input type="text" class="form-control form-control-lg" id="staticEmail" placeholder="email@example.com">
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="Password" class="col-sm-2 col-form-label">Password</label>
+                            <label for="Password" class="col-sm-2 col-form-label">
+                                <h5>Password</h5>
+                            </label>
                             <div class="col-sm-10">
-                                <input type="password" class="form-control" id="inputPassword" placeholder="********">
+                                <input type="password" class="form-control form-control-lg" id="inputPassword" placeholder="********">
                             </div>
                         </div>
                         <div class="input-group mb-3">
-                            <label for="inputNomor" class="col-sm-2 col-form-label">Nomor Telepon</label>
+                            <label for="inputNomor" class="col-sm-2 col-form-label">
+                                <h5>Nomor Telepon</h5>
+                            </label>
                             <div class="input-group-prepend">
-                                <span class="input-group-text" id="inputGroup-sizing-default">+62</span>
+                                <span class="input-group-text input-group-lg" id="inputGroup">+62</span>
                             </div>
-                            <input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default">
+                            <input type="text" class="form-control form-control-lg">
                         </div>
                         <div class="form-group row">
-                            <label for="inputAlamat" class="col-sm-2 col-form-label">Alamat</label>
+                            <label for="inputAlamat" class="col-sm-2 col-form-label">
+                                <h5>Alamat</h5>
+                            </label>
                             <div class="col-sm-10">
                                 <div class="form-group row">
-                                    <label for="inputJalan" class="col-sm-2 col-form-label">Jalan/ gang</label>
+                                    <label for="inputJalan" class="col-sm-2 col-form-label">
+                                        <h5>Jalan/ gang</h5>
+                                    </label>
                                     <div class="col-sm-10">
-                                        <input type="text" class="form-control" id="inputJalan" placeholder="Contoh : Jl. Pemuda No. 78">
+                                        <input type="text" class="form-control form-control-lg" id="inputJalan" placeholder="Contoh : Jl. Pemuda No. 78">
                                     </div>
                                 </div>
                                 <div class="form-group row">
-                                    <label for="inputProvinsi" class="col-sm-2 col-form-label">Provinsi</label>
+                                    <label for="inputProvinsi" class="col-sm-2 col-form-label">
+                                        <h5>Provinsi</h5>
+                                    </label>
                                     <div class="col-sm-10">
-                                        <select class="form-control">
+                                        <select class="form-control form-control-lg">
                                             <option>Pilih Provinsi</option>
                                             <option>DKI Jakarta</option>
                                             <option>Jawa Barat</option>
@@ -82,9 +98,11 @@
                                     </div>
                                 </div>
                                 <div class="form-group row">
-                                    <label for="inputKabupaten" class="col-sm-2 col-form-label">Kabupaten</label>
+                                    <label for="inputKabupaten" class="col-sm-2 col-form-label">
+                                        <h5>Kabupaten</h5>
+                                    </label>
                                     <div class="col-sm-10">
-                                        <select class="form-control">
+                                        <select class="form-control form-control-lg">
                                             <option>Pilih Kabupaten</option>
                                             <option>Demak</option>
                                             <option>Kudus</option>
@@ -95,9 +113,11 @@
                                     </div>
                                 </div>
                                 <div class="form-group row">
-                                    <label for="inputDesa" class="col-sm-2 col-form-label">Kecamatan</label>
+                                    <label for="inputKec" class="col-sm-2 col-form-label">
+                                        <h5>Kecamatan</h5>
+                                    </label>
                                     <div class="col-sm-10">
-                                        <select class="form-control">
+                                        <select class="form-control form-control-lg">
                                             <option>Pilih Kecamatan</option>
                                             <option>Banyumanik</option>
                                             <option>Gunungpati</option>
@@ -108,47 +128,59 @@
                                     </div>
                                 </div>
                                 <div class="form-group row">
-                                    <label for="inputDesa" class="col-sm-2 col-form-label">Desa/ Kelurahan</label>
+                                    <label for="inputKel" class="col-sm-2 col-form-label">
+                                        <h5>Kelurahan</h5>
+                                    </label>
                                     <div class="col-sm-10">
-                                        <select class="form-control">
-                                            <option>Pilih Desa/ Kelurahan</option>
+                                        <select class="form-control form-control-lg">
+                                            <option>Pilih Kelurahan</option>
                                             <option>Sekaran</option>
                                             <option>Patemon</option>
                                         </select>
                                     </div>
                                 </div>
                                 <div class="form-group row">
-                                    <label for="InputPos" class="col-sm-2 col-form-label">Kode Pos</label>
+                                    <label for="InputPos" class="col-sm-2 col-form-label">
+                                        <h5>Kode Pos</h5>
+                                    </label>
                                     <div class="col-sm-10">
-                                        <input type="text" class="form-control" id="InputPos" placeholder="Masukkan Kode Pos">
+                                        <input type="text" class="form-control form-control-lg" id="InputPos" placeholder="Masukkan Kode Pos">
                                     </div>
                                 </div>
                                 <div class="form-group row">
-                                    <label for="inputAlamat" class="col-sm-2 col-form-label">RT/ RW</label>
+                                    <label for="inputAlamat" class="col-sm-2 col-form-label">
+                                        <h5>RT/ RW</h5>
+                                    </label>
                                     <div class="col">
-                                        <input type="text" class="form-control" placeholder="RT">
+                                        <input type="text" class="form-control form-control-lg" placeholder="RT">
                                     </div>
                                     <div class="col">
-                                        <input type="text" class="form-control" placeholder="RW">
+                                        <input type="text" class="form-control form-control-lg" placeholder="RW">
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="Password" class="col-sm-2 col-form-label">Jenis Kelamin</label>
+                            <label for="Password" class="col-sm-2 col-form-label">
+                                <h5>Jenis Kelamin</h5>
+                            </label>
                             <div class="col-sm-10">
                                 <div class="form-check form-check-inline">
-                                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="L">
-                                    <label class="form-check-label" for="inlineRadio1">Laki - Laki</label>
+                                    <input class="form-check-input form-check-input-lg" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="L">
+                                    <label class="form-check-label" for="inlineRadio1">
+                                        <h5>Laki - Laki</h5>
+                                    </label>
                                 </div>
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="P">
-                                    <label class="form-check-label" for="inlineRadio2">Perempuan</label>
+                                    <label class="form-check-label" for="inlineRadio2">
+                                        <h5>Perempuan</h5>
+                                    </label>
                                 </div>
                             </div>
                         </div>
+                        <button type="button" class="simpan">Simpan</button>
                     </form>
-                    <button type="button" class="simpan">Simpan</button>
                 </div>
             </div>
         </div>
