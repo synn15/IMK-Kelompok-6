@@ -8,8 +8,10 @@
 @import 'penilaian.css';
 @import 'pengembalian.css';
 @import 'keranjang.css';
+@import 'pembayaran.css';
 @import 'menyewakan.css';
 @import 'toko.css';
+
 
 
 :root{
