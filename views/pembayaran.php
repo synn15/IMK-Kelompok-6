@@ -13,7 +13,7 @@
 
 <body>
     <?php include '../php/navbar.php'; ?>
-    <div class="container mt-3"><h1>Penilaian</h1></div>
+    <div class="container mt-3"><h1>Detail Pembayaran</h1></div>
     <br><br>
     <div class = "container mt-3">
         <div class="row">
