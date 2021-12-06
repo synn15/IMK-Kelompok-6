@@ -15,36 +15,48 @@
                     <p>Format gambar .jpg .jpeg .png dan ukuran minimum 300 x 300px (Untuk gambar optimal gunakan ukuran minimum 700 x 700 px). Pilih foto produk atau tarik dan letakkan hingga 5 foto sekaligus di sini. Cantumkan min. 3 foto yang menarik agar produk semakin menarik peminjam.</p>
                 </label>
                 <div class="col">
-                    <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" fill="#F2F6FC" />
-                        <path d="M51.667 61H70.3337" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
-                        <path d="M61 51.6667L61 70.3334" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
-                        <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" stroke="#DCDFE6" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 4" />
-                    </svg>
-                    <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" fill="#F2F6FC" />
-                        <path d="M51.667 61H70.3337" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
-                        <path d="M61 51.6667L61 70.3334" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
-                        <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" stroke="#DCDFE6" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 4" />
-                    </svg>
-                    <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" fill="#F2F6FC" />
-                        <path d="M51.667 61H70.3337" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
-                        <path d="M61 51.6667L61 70.3334" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
-                        <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" stroke="#DCDFE6" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 4" />
-                    </svg>
-                    <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" fill="#F2F6FC" />
-                        <path d="M51.667 61H70.3337" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
-                        <path d="M61 51.6667L61 70.3334" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
-                        <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" stroke="#DCDFE6" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 4" />
-                    </svg>
-                    <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" fill="#F2F6FC" />
-                        <path d="M51.667 61H70.3337" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
-                        <path d="M61 51.6667L61 70.3334" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
-                        <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" stroke="#DCDFE6" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 4" />
-                    </svg>
+                    <div class="boxfoto">
+                        <button class="fotoProduk">
+                            <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" fill="#F2F6FC" />
+                                <path d="M51.667 61H70.3337" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
+                                <path d="M61 51.6667L61 70.3334" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
+                                <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" stroke="#DCDFE6" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 4" />
+                            </svg>
+                        </button>
+                        <button class="fotoProduk">
+                            <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" fill="#F2F6FC" />
+                                <path d="M51.667 61H70.3337" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
+                                <path d="M61 51.6667L61 70.3334" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
+                                <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" stroke="#DCDFE6" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 4" />
+                            </svg>
+                        </button>
+                        <button class="fotoProduk">
+                            <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" fill="#F2F6FC" />
+                                <path d="M51.667 61H70.3337" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
+                                <path d="M61 51.6667L61 70.3334" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
+                                <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" stroke="#DCDFE6" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 4" />
+                            </svg>
+                        </button>
+                        <button class="fotoProduk">
+                            <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" fill="#F2F6FC" />
+                                <path d="M51.667 61H70.3337" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
+                                <path d="M61 51.6667L61 70.3334" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
+                                <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" stroke="#DCDFE6" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 4" />
+                            </svg>
+                        </button>
+                        <button class="fotoProduk" type="file">
+                            <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" fill="#F2F6FC" />
+                                <path d="M51.667 61H70.3337" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
+                                <path d="M61 51.6667L61 70.3334" stroke="#909099" stroke-width="1.5" stroke-linecap="round" />
+                                <rect x="0.5" y="0.5" width="121" height="121" rx="2.5" stroke="#DCDFE6" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 4" />
+                            </svg>
+                        </button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -149,7 +161,7 @@
             </div>
         </div>
     </div>
-
-    <button type="button" class="simpan">Simpan</button>
-
+    <div class="box_simpan">
+        <button type="button" class="simpan_brg">Simpan</button>
+    </div>
 </body>

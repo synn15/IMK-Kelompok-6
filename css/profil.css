@@ -68,3 +68,9 @@ ul h5{
 h5 {
   font-family: 'Open Sans';
 }
+
+.form-check .form-check-input[type=radio] {
+  border-radius: 100%;
+  height: 15px;
+  width: 15px;
+}
