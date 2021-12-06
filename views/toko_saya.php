@@ -9,48 +9,68 @@
     <div class="judul">
       <h1 class="judul-title">Toko Saya</h1>
     </div>
-    <div class="container mt-3">
+    <div class="container">
       <div class="row">
-        <div class="product-card  col-3">
-          <a href="#" class="product-card__link">
-            <div class="product-card__img">
-              <img src="https://cf.shopee.co.id/file/b7bce189128756c909d2d471520db71a_tn" alt="" srcset="">
+        <div class="col">
+          <div class="box-image">  
+            <div class="img-thumbnail mx-auto d-block">
+              <img src="https://cf.shopee.co.id/file/b7bce189128756c909d2d471520db71a_tn" alt="" srcset="" width="100%" >
             </div>
-            <button type="button" class="upload">Edit Foto</button>
-            <p class="product-card__desc mt-3">Besar file: maksimum 2 Megabytes. Ekstensi file yang diperbolehkan: .JPG .JPEG .PNG</p>
-          </a>
+            <br>
+            <button type="button" class="upload">Pilih Foto</button>
+            <br>
+            <br>
+            <p>Besar file: maksimum 2 Megabytes. Ekstensi file yang diperbolehkan: .JPG .JPEG .PNG</p>
+          </div>
         </div>
-        <div class="col-8">
-          <div class="row justify-content-center py-5">
-            <div class="col-md-5"></div>
+        <div class="col">
+          <div class="box-identitas">
             <form>
               <div class="form-group row">
-                <label for="inputUsername" class="col-sm-2 col-form-label">Username</label>
+                <label for="inputUsername" class="col-sm-2 col-form-label">
+                  <h5>Username</h5>
+                </label>
                 <div class="col-sm-10">
-                  <input type="text" class="form-control form-control-lg" id="inputUsername" placeholder="Toko Kuda Emas">
+                  <input type="text" class="form-control form-control-lg" id="inputUsername" placeholder="bimo123">
                 </div>
               </div>
               <div class="form-group row">
-                <label for="inputNama" class="col-sm-2 col-form-label">Nama</label>
+                <label for="inputNama" class="col-sm-2 col-form-label">
+                  <h5>Nam Toko</h5>
+                </label>
                 <div class="col-sm-10">
-                  <input type="text" class="form-control" id="inputNama" placeholder="Bimo Aryo">
+                  <input type="text" class="form-control form-control-lg" id="inputNama" placeholder="Toko Kuda Emas">
                 </div>
               </div>
               <div class="form-group row">
-                <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
+                <label for="inputNama" class="col-sm-2 col-form-label">
+                  <h5>Nama</h5>
+                </label>
                 <div class="col-sm-10">
-                  <input type="text" class="form-control" id="staticEmail" placeholder="email@example.com">
+                  <input type="text" class="form-control form-control-lg" id="inputNama" placeholder="Bimo Aryo">
+                </div>
+              </div>
+              <div class="form-group row">
+                <label for="inputEmail" class="col-sm-2 col-form-label">
+                  <h5>Email</h5>
+                </label>
+                <div class="col-sm-10">
+                  <input type="text" class="form-control form-control-lg" id="staticEmail" placeholder="email@example.com">
                 </div>
               </div>
               <div class="input-group mb-3">
-                <label for="inputNomor" class="col-sm-2 col-form-label">Nomor Telepon</label>
+                <label for="inputNomor" class="col-sm-2 col-form-label">
+                  <h5>Nomor Telepon</h5>
+                </label>
                 <div class="input-group-prepend">
-                  <span class="input-group-text" id="inputGroup-sizing-default">+62</span>
+                  <span class="input-group-text input-group-lg" id="inputGroup">+62</span>
                 </div>
-                <input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default">
+                <input type="text" class="form-control form-control-lg">
               </div>
               <div class="form-group row">
-                <label for="inputAlamat" class="col-sm-2 col-form-label">Alamat</label>
+                <label for="inputAlamat" class="col-sm-2 col-form-label">
+                  <h5>Alamat</h5>
+                </label>
                 <div class="col-sm-10">
                   <div class="form-group row">
                     <label for="inputJalan" class="col-sm-2 col-form-label">Jalan/ gang</label>
@@ -125,10 +145,13 @@
                   </div>
                 </div>
               </div>
-            </form>
-            <button type="button" class="simpan">Simpan</button>
-          </div>
+              <br>
+              <br>
+              <br>
 
+              <button type="button" class="simpan">Simpan</button>
+            </form>
+          </div>
         </div>
       </div>
     </div>
@@ -160,7 +183,10 @@
               <i class="far fa-star"></i>
             </div>
             <a href="#" class="product-card__btn">
-              Sewa
+              Lihat Detail
+            </a>
+            <a href="#" class="product-card__btn">
+              Edit
             </a>
           </div>
         </a>
@@ -187,7 +213,10 @@
               <i class="far fa-star"></i>
             </div>
             <a href="#" class="product-card__btn">
-              Sewa
+              Lihat Detail
+            </a>
+            <a href="#" class="product-card__btn">
+              Edit
             </a>
           </div>
         </a>
@@ -213,7 +242,10 @@
               <i class="far fa-star"></i>
             </div>
             <a href="#" class="product-card__btn">
-              Sewa
+              Lihat Detail
+            </a>
+            <a href="#" class="product-card__btn">
+              Edit
             </a>
           </div>
         </a>
@@ -240,7 +272,10 @@
               <i class="fas fa-star"></i>
             </div>
             <a href="#" class="product-card__btn">
-              Sewa
+              Lihat Detail
+            </a>
+            <a href="#" class="product-card__btn">
+              Edit
             </a>
           </div>
         </a>
