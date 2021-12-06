@@ -29,8 +29,8 @@
         <div class="navbar-sub__links">
             <a href="/imk-kelompok-6/index.php" class="navbar-sub__link active">Home</a>
             <a href="#" class="navbar-sub__link">Kategori</a>
-            <a href="#" class="navbar-sub__link">Toko Saya</a>
-            <a href="#" class="navbar-sub__link">Menyewa</a>
+            <a href="/imk-kelompok-6/views/toko_saya.php" class="navbar-sub__link">Toko Saya</a>
+            <a href="/imk-kelompok-6/views/sedang_menyewa.php" class="navbar-sub__link">Menyewa</a>
             <a href="/IMK-Kelompok-6/views/pengembalian.php" class="navbar-sub__link">Kembalikan</a>
         </div>
     </div>

@@ -162,6 +162,8 @@
         </div>
     </div>
     <div class="box_simpan">
-        <button type="button" class="simpan_brg">Simpan</button>
+        <a href="/imk-kelompok-6/views/toko_saya.php">
+        <button href type="button" class="simpan_brg">Simpan</button>
+    </a>
     </div>
 </body>

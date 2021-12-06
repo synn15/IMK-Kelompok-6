@@ -136,7 +136,7 @@
   <section class="barang-anda">
     <div class="judul">
       <h1 class="judul-title">Barang Anda</h1>
-      <a href="#" class="judul-link">Tambah Barang</a>
+      <a href="/imk-kelompok-6/views/menyewakan.php" class="judul-link">Tambah Barang</a>
     </div>
     <div class="row mt-3 g-5">
       <div class="product-card  col-3">
