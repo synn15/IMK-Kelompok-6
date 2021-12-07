@@ -36,7 +36,7 @@
               </div>
               <div class="form-group row">
                 <label for="inputNama" class="col-sm-2 col-form-label">
-                  <h5>Nam Toko</h5>
+                  <h5>Nama Toko</h5>
                 </label>
                 <div class="col-sm-10">
                   <input type="text" class="form-control form-control-lg" id="inputNama" placeholder="Toko Kuda Emas">
@@ -182,10 +182,10 @@
               <i class="far fa-star"></i>
               <i class="far fa-star"></i>
             </div>
-            <a href="#" class="product-card__btn">
+            <a href="detail_barang.php" class="product-card__btn">
               Lihat Detail
             </a>
-            <a href="#" class="product-card__btn">
+            <a href="edit_barang.php" class="product-card__btn">
               Edit
             </a>
           </div>
@@ -212,10 +212,10 @@
               <i class="fas fa-star"></i>
               <i class="far fa-star"></i>
             </div>
-            <a href="#" class="product-card__btn">
+            <a href="detail_barang.php" class="product-card__btn">
               Lihat Detail
             </a>
-            <a href="#" class="product-card__btn">
+            <a href="edit_barang.php" class="product-card__btn">
               Edit
             </a>
           </div>
@@ -241,10 +241,10 @@
               <i class="far fa-star"></i>
               <i class="far fa-star"></i>
             </div>
-            <a href="#" class="product-card__btn">
+            <a href="detail_barang.php" class="product-card__btn">
               Lihat Detail
             </a>
-            <a href="#" class="product-card__btn">
+            <a href="edit_barang.php" class="product-card__btn">
               Edit
             </a>
           </div>
@@ -271,10 +271,10 @@
               <i class="fas fa-star"></i>
               <i class="fas fa-star"></i>
             </div>
-            <a href="#" class="product-card__btn">
+            <a href="detail_barang.php" class="product-card__btn">
               Lihat Detail
             </a>
-            <a href="#" class="product-card__btn">
+            <a href="edit_barang.php" class="product-card__btn">
               Edit
             </a>
           </div>
