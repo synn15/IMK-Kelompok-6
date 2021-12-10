@@ -53,16 +53,20 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 30%;
+    width: 40%;
     column-gap: 3rem;
 }
 .keranjang-jumlah{
     font-size: 2rem;
     font-weight: 600;
     display: flex;
-    width: 50%;
-    column-gap: 3rem;
+    width: 20%;
+    justify-content: space-around;
     align-items: center;
+}
+.keranjang-hari{
+  font-size: 2rem;
+  font-weight: 600;
 }
 .keranjang-jumlah button{
     border: none;
