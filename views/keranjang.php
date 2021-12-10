@@ -40,6 +40,9 @@
                         12
                         <button type="button">+</button>
                     </div>
+                    <div class="keranjang-hari">
+                        15 Hari
+                    </div>
                     <div class="keranjang-togel">
                         <label class="switch switch200">
                             <input type="checkbox">
@@ -52,11 +55,11 @@
             <div class="keranjang-product">
                 <div class="kiri">
                     <div class="keranjang-img">
-                        <img src="https://i.etsystatic.com/26585955/r/il/a768ed/2793982007/il_fullxfull.2793982007_kual.jpg" alt="" srcset="">
+                        <img src="https://cdn11.bigcommerce.com/s-cykw02w8qi/images/stencil/1280x1280/products/5094/6291/mc-ac-03l__56995.1626852002.jpg?c=1" alt="" srcset="">
                     </div>
                     <div class="keranjang-detail">
                         <div class="keranjang-title">
-                            Maid Outfit
+                            Hidden Blade of Aguilar
                         </div>
                         <p class="keranjang-deskripsi">
                             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium alias, facilis eligendi consequuntur fuga quia aspernatur quam et nihil, eveniet officiis facere, aperiam explicabo! Distinctio laboriosam nobis laudantium illo dolorum!
@@ -79,6 +82,9 @@
                         12
                         <button type="button">+</button>
                     </div>
+                    <div class="keranjang-hari">
+                        200 Hari
+                    </div>
                     <div class="keranjang-togel">
                         <label class="switch switch200">
                             <input type="checkbox">
@@ -91,11 +97,11 @@
             <div class="keranjang-product">
                 <div class="kiri">
                     <div class="keranjang-img">
-                        <img src="https://cdn11.bigcommerce.com/s-i32t4keptf/images/stencil/1280x1280/products/3038/3544/all3__63339.1626199785.jpg?c=1" alt="" srcset="">
+                        <img src="https://i.pinimg.com/originals/c6/18/a2/c618a263c08433df4e5f7e1ab30d09d6.jpg" alt="" srcset="">
                     </div>
                     <div class="keranjang-detail">
                         <div class="keranjang-title">
-                            NERF47 Mainan Anak
+                            Kucing Gepeng
                         </div>
                         <p class="keranjang-deskripsi">
                             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium alias, facilis eligendi consequuntur fuga quia aspernatur quam et nihil, eveniet officiis facere, aperiam explicabo! Distinctio laboriosam nobis laudantium illo dolorum!
@@ -117,6 +123,9 @@
                         <button type="button">-</button>
                         12
                         <button type="button">+</button>
+                    </div>
+                    <div class="keranjang-hari">
+                        3 Hari
                     </div>
                     <div class="keranjang-togel">
                         <label class="switch switch200">
