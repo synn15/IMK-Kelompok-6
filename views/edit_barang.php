@@ -5,7 +5,7 @@
 
 <body>
     <?php include '../php/navbar.php'; ?>
-    <h1 class="profil">Editk</h1>
+    <h1 class="profil">Edit Barang</h1>
     <div class="container-fluid">
         <div class="box">
             <h2>Upload Produk</h2>
