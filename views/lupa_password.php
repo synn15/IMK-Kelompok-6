@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Login</title>
+        <title>Verifikasi</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="/imk-kelompok-6/assets/bootstrap.min.css" rel="stylesheet">
@@ -20,7 +20,7 @@
           <div class="row justify-content-center py-5">
               <div class="col-md-5">
               <div class="card">
-                  <div class="card-header  mb-0"><h5 class="text-center">Login</h5></div>
+                  <div class="card-header  mb-0"><h5 class="text-center">Verifikasi</h5></div>
                   <div class="card-body">
                   <form>
                   <div class="mb-3">
